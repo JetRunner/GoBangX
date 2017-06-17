@@ -1,6 +1,15 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>MainForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>gobang.png</file>
+        <file>bamboo.png</file>
+        <file>chessboard.png</file>
+        <file>burn_down.png</file>
+        <file>blind_light.png</file>
+        <file>skill.png</file>
+        <file>obstacle_set.png</file>
     </qresource>
 </RCC>
