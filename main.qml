@@ -5,7 +5,7 @@ import QtQuick.Dialogs 1.1
 
 ApplicationWindow {
     id:entranceWindow;
-    property var default_font: "微软雅黑";
+    property var default_font: "微软雅黑"; //"PingFang SC" is recommended for Mac.
     font.family: entranceWindow.default_font;
     visible: true
     minimumWidth: 1024
