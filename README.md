@@ -5,6 +5,11 @@ It's a cross-platform GoBang game with some amazing points as below:
 2. Tidy user interface
 3. More...
 
-## Screenshot
+## Screenshots
 ![Markdown](http://i4.piimg.com/1949/b7ee5de094d52ae8.png)
 ![Markdown](http://i4.piimg.com/1949/ce8a6c6329cf9a7d.png)
+
+## TODO List
+* EN & MORE LANGUAGES
+* NETWORK VERSUS
+* MORE SKILLS
