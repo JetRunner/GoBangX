@@ -8,7 +8,7 @@ It's a cross-platform GoBang game with some amazing points as below:
 3. More...
 
 ## Development Dependency
-You have to download Qt SDK. GoBangX requires Qt Quick 5.8+ .
+You have to download Qt SDK. GoBangX requires Qt Quick 2.7+.
 
 ## Screenshots
 ![Markdown](http://i4.piimg.com/1949/b7ee5de094d52ae8.png)
