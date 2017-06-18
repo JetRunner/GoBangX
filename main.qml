@@ -14,8 +14,8 @@ ApplicationWindow {
      MessageDialog {
          id: messageDialog
          title: "关于我们"
-         text: "许灿文/王雪/韩哲昊/徐劲草 ©2017"
-         informativeText :"五子棋GoBang 使用Qt Quick 开发，已全面开源于Github。"
+         text: "JetRunner ©2017"
+         informativeText :"五子棋GoBangX 使用Qt Quick 开发，开源于Github。"
          onAccepted: {
              messageDialog.close();
          }
