@@ -1,5 +1,5 @@
 # GoBangX
-A GoBang Game Built by Qt Quick
+A GoBang Game Built with Qt Quick
 
 ## Introduction
 It's a cross-platform GoBang game with some amazing points as below:
