@@ -128,7 +128,6 @@ ApplicationWindow {
                                     y : chessBoard.paintY,    //圆心的y轴坐标值
                                     r : 15      //圆的半径
                                 };
-                                //以canvas中的坐标点(100,100)为圆心，绘制一个半径为50px的圆形
                                 ctx.arc(circle.x, circle.y, circle.r, 0, Math.PI * 2, true);
                                 //按照指定的路径绘制弧线
                                 ctx.fill();
